@@ -1,9 +1,11 @@
-import react,{component} from 'react'
+import react,{Component} from 'react'
 
 class Currently extends Component{
     render(){
         return(
-            <h2>Currently Reading</h2>
+            <div>
+             <h2>Currently Reading</h2>
+            </div>
         );
     }
 }
