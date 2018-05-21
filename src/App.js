@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Header from './header.js';
 import Currently from './currently.js'
+import WantToRead from './want.js'
 
 class App extends Component {
   render() {
@@ -10,6 +11,7 @@ class App extends Component {
       <div >
         <Header />
         <Currently />
+        <WantToRead />
       </div>
     );
   }
