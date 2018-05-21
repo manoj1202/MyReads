@@ -16,7 +16,7 @@ class WantToRead extends Component{
                 </div>
                 <div>
                     <figure>
-                        <img src="https://i.pinimg.com/736x/5f/84/d0/5f84d040be5b825d151db173f02336cd---years-new-books.jpg" />
+                        <img src="https://i.pinimg.com/736x/5f/84/d0/5f84d040be5b825d151db173f02336cd---years-new-books.jpg"  width='200px' height='250px' />
                         <p>Harrypotter</p>
                         <p>J.K.Rowlling</p>
                     </figure>
