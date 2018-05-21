@@ -1,10 +1,10 @@
 import React,{Component} from 'react'
 
-class Search exends Component{
+class Search extends Component{
     render(){
         return(
-            <div>
-                <button>Search</button>
+            <div align="center" >
+                <button style={{backgroundColor:"green"}}>Search</button>
             </div>
         );
     }

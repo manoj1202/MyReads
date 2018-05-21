@@ -15,8 +15,8 @@ class App extends Component {
         <Header />
         <Currently  />
         <WantToRead  />
-        <Read />
-        <Search /><br/><br/><br/>
+        <Read /><br/><br/><br/>
+        <Search /><br/><br/>
       </div>
     );
   }
