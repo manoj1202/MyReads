@@ -14,7 +14,7 @@ class App extends Component {
         <Header />
         <Currently  />
         <WantToRead  />
-        <Read/>
+        <Read />
       </div>
     );
   }
