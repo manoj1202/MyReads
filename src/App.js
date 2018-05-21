@@ -4,6 +4,7 @@ import './App.css';
 import Header from './header.js';
 import Currently from './currently.js'
 import WantToRead from './want.js'
+import Read from './read.js'
 
 class App extends Component {
  
