@@ -5,6 +5,7 @@ import Header from './header.js';
 import Currently from './currently.js'
 import WantToRead from './want.js'
 import Read from './read.js'
+import Search from './navbutton.js'
 
 class App extends Component {
  
@@ -15,6 +16,7 @@ class App extends Component {
         <Currently  />
         <WantToRead  />
         <Read />
+        <Search /><br/><br/><br/>
       </div>
     );
   }
