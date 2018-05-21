@@ -6,12 +6,13 @@ import Currently from './currently.js'
 import WantToRead from './want.js'
 
 class App extends Component {
+ 
   render() {
     return (
       <div >
         <Header />
-        <Currently />
-        <WantToRead />
+        <Currently  />
+        <WantToRead  />
       </div>
     );
   }
