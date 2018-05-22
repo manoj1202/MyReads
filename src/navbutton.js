@@ -8,8 +8,7 @@ class Search extends Component{
         return(
             <div align="center" >
                 <a hreaf="#search" >
-                    <button>
-                    Search</button>
+                    <button>Search</button>
                 </a>
             </div>
         );
